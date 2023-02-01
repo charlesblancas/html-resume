@@ -8,6 +8,8 @@ Note that the header is copied and pasted between the resume and cover letter, s
 
 The title of the document can be changed in the `head` of the HTML file.
 
+If you want a second page, just create another `div` with the classes `page` and `letter` or `a4` depending on your page size.
+
 ## Printing
 To get the proper formatting in PDF format, when printing, make sure that `Fit to page width` or `Scale: default` is selected; otherwise, it might not fit the page correctly.
 
