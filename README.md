@@ -1,5 +1,5 @@
 # HTML Resume
-Github Pages:
+[GitHub Pages Deployment](https://charles-spencer-blancas.github.io/html-resume/)
 
 [Resume](/resume.html)
 
