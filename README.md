@@ -1,4 +1,10 @@
 # HTML Resume
+Github Pages:
+
+[Resume](/resume.html)
+
+[Cover Letter](/cover-letter.html)
+
 
 ## How to run
 Open the `resume.html` and `cover-letter.html` files with your browser.
