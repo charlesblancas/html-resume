@@ -6,6 +6,8 @@ Open the `resume.html` and `cover-letter.html` files with your browser.
 ## Editing Notes
 Note that the header is copied and pasted between the resume and cover letter, so any changes must be done twice. The fix would be to make the header into a custom element, but that is likely a `wontfix` since the header is not likely to be changed often.
 
+The title of the document can be changed in the `head` of the HTML file.
+
 ## Printing
 To get the proper formatting in PDF format, when printing, make sure that `Fit to page width` or `Scale: default` is selected; otherwise, it might not fit the page correctly.
 
