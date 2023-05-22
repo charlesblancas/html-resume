@@ -72,6 +72,8 @@ a:visited {
 .section-title {
   margin: 0;
   font-size: 1.5rem;
+  font-size: 1.25rem;
+  margin: 0;
 }
 
 .section hr {
@@ -98,11 +100,6 @@ a:visited {
 
 .item-subtitle {
   font-size: 1rem;
-  margin: 0;
-}
-
-.subsection-title {
-  font-size: 1.25rem;
   margin: 0;
 }
 
