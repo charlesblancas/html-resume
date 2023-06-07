@@ -29,11 +29,12 @@ html %lang{en}
                     div.item-header
                         div.item-title-container
                             h2.item-title >{Desjardins Capital}
-                            h2.item-date >{May - Aug}
+                            h2.item-date >{May - Aug 2023}
                         h2.item-subtitle >{Developer Intern}
-                    // ul.item-body
-                    //     li.item-point
-                    //         >{}
+                    ul.item-body
+                        li.item-point
+                            >{Used SQL to configure a web application for data
+                            population in Excel reports and utilized VBA for formatting}
                 
                 div.item
                     div.item-header
