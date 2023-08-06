@@ -28,37 +28,41 @@ html %lang{en}
                 div.item
                     div.item-header
                         div.item-title-container
-                            h2.item-title >{Desjardins Capital (SQL, VBA)}
+                            h2.item-title >{Desjardins Capital (SQL, Angular, .NET Core, C#, VBA)}
                             h2.item-date >{May - Aug 2023}
                         h2.item-subtitle >{Developer Intern}
                     ul.item-body
                         li.item-point
-                            >{Used SQL to configure a web application and modify
-                             existing stored procedures for data population in 
-                             Excel reports and utilized VBA for formatting}
+                            >{Optimized SQL query performance by replacing 
+                            inefficient row-by-row cursor processing with 
+                            "CROSS APPLY" and a function, resulting in a 
+                            reduction of query execution time from 50 minutes 
+                            to just 4 minutes}
                         li.item-point
-                            >{Proposed and implemented the transformation of a 
-                            stored procedure into a table-valued function,
-                            utilizing cross apply to avoid cursors. 
-                            These insights contributed to the reduction of 
-                            the execution time of another stored procedure from 
-                            50 minutes to 4 minutes}
-                
+                            >{Applied the Mediator and Composite object-oriented
+                             design patterns to refactor an Angular application,
+                             increasing code maintainability and reusability}
+                        li.item-point
+                            >{Implemented business logic and wrote unit tests 
+                              for a .NET Core API in C#}
+                        li.item-point
+                            >{Processed and styled Excel sheets using VBA, 
+                              facilitating data analysis and enabling efficient 
+                              decision-making}
                 div.item
                     div.item-header
                         div.item-title-container
-                            h2.item-title >{CIUSSS du Centre-Sud-de-L'Ile-de-Montreal (C#, .NET, Blazor, HTML, CSS)}
+                            h2.item-title >{CIUSSS du Centre-Sud-de-L'Ile-de-Montreal (C#, .NET Core, Blazor, HTML, CSS)}
                             h2.item-date >{May - Aug 2022}
                         h2.item-subtitle >{Full Stack Development Intern}
                     ul.item-body
                         li.item-point
                             >{Developed a web application for scheduling 
-                            interpreters for medical appointments for the CIUSSS
-                            du Centre-Sud-de-L'Ile-de-Montreal using ASP.NET 
+                            interpreters for medical appointments using ASP.NET 
                             Core, SQL Server Blazor, C#, HTML, and CSS}
-                        li.item-point
-                            >{Collaborated with business analysts to clarify
-                             requirements for appointment and invoice tracking}
+                        // li.item-point
+                        //     >{Collaborated with business analysts to clarify
+                        //      requirements for appointment and invoice tracking}
                         li.item-point
                             >{Developed proofs of concept for a native mobile 
                             application using the .NET MAUI framework and an 
@@ -87,11 +91,11 @@ html %lang{en}
                             h2.item-title >{Ixchel - Markup language transpiled to HTML (Node.js, TypeScript)}
                             h2.item-date >{Apr 2023 - Present}
                     ul.item-body
+                        // li.item-point
+                        //     >{Designed and developed the syntax for Ixchel, 
+                        //     a markup language that transpiles to HTML}
                         li.item-point
-                            >{Designed and developed the syntax for Ixchel, 
-                            a markup language that transpiles to HTML}
-                        li.item-point
-                            >{Implemented the transpiler using Node.js to 
+                            >{Implemented a transpiler using Node.js to 
                             convert Ixchel code into valid HTML documents and
                             created a command line interface for easy usage}
                         li.item-point
@@ -199,7 +203,7 @@ html %lang{en}
                     >{JavaScript, TypeScript, HTML, CSS, C#, Java, Python, C, Bash}
                 p.skill-group
                     strong >{Frontend: }
-                    >{React, Svelte, SvelteKit, Blazor}
+                    >{React, Angular, Blazor, Svelte, SvelteKit}
                 p.skill-group
                     strong >{Backend: }
                     >{SQL, ASP.NET Core, Spring}
