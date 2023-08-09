@@ -20,7 +20,18 @@ html %lang{en}
                     a %href{https://github.com/Charles-Spencer-Blancas} >{https://github.com/Charles-Spencer-Blancas}
                     >{|}
                     a %href{"https://linkedin.com/in/charles-spencer-blancas"} >{https://linkedin.com/in/charles-spencer-blancas}
-
+            div.section
+                h1.section-title >{Education}
+                hr
+                div.item
+                    div.item-header
+                        div.item-title-container
+                            h2.item-title >{Bachelor of Engineering - Software Engineering Co-op}
+                            h2.item-date >{Aug 2021 - May 2025}
+                        h2.item-subtitle >{McGill University}
+                    ul.item-body
+                        li.item-point >{Cumulative GPA: 3.86/4.00}
+                        li.item-point >{2021 - 2022: Dean's Honor List, Brodeur-Drummond and Professor Martin Levine Scholarships}
             div.section
                 h1.section-title >{Work Experience}
                 hr
@@ -68,19 +79,6 @@ html %lang{en}
                             application using the .NET MAUI framework and an 
                             authentication microservice with single sign-on 
                             using ASP.NET Core}
-
-            div.section
-                h1.section-title >{Education}
-                hr
-                div.item
-                    div.item-header
-                        div.item-title-container
-                            h2.item-title >{Bachelor of Engineering - Software Engineering Co-op}
-                            h2.item-date >{Aug 2021 - May 2025}
-                        h2.item-subtitle >{McGill University}
-                    ul.item-body
-                        li.item-point >{Cumulative GPA: 3.86/4.00}
-                        li.item-point >{2021 - 2022: Dean's Honor List, Brodeur-Drummond and Professor Martin Levine Scholarships}
         
             div.section
                 h1.section-title >{Personal Projects}
@@ -89,7 +87,6 @@ html %lang{en}
                     div.item-header
                         div.item-title-container
                             h2.item-title >{Ixchel - Markup language transpiled to HTML (Node.js, TypeScript)}
-                            h2.item-date >{Apr 2023 - Present}
                     ul.item-body
                         // li.item-point
                         //     >{Designed and developed the syntax for Ixchel, 
