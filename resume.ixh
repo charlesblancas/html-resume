@@ -14,14 +14,15 @@ html %lang{en}
             div.header
                 h1 >{Charles Spencer Blancas}
                 p
-                    a %href{https://charles-spencer-blancas.com} >{charles-spencer-blancas.com}
-                    >{ | }
+
                     a %href{mailto:charles.blancas@mail.mcgill.ca} >{charles.blancas@mail.mcgill.ca}
                     >{| 514-834-7690 | Dollard-des-Ormeaux, QC, CA}
                     br
-                    a %href{https://github.com/Charles-Spencer-Blancas} >{https://github.com/Charles-Spencer-Blancas}
+                    a %href{https://charles-spencer-blancas.com} >{charles-spencer-blancas.com}
                     >{|}
-                    a %href{"https://linkedin.com/in/charles-spencer-blancas"} >{https://linkedin.com/in/charles-spencer-blancas}
+                    a %href{https://github.com/Charles-Spencer-Blancas} >{github.com/Charles-Spencer-Blancas}
+                    >{|}
+                    a %href{"https://linkedin.com/in/charles-spencer-blancas"} >{linkedin.com/in/charles-spencer-blancas}
             div.section
                 h1.section-title >{Education}
                 hr
